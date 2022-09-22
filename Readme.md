@@ -24,27 +24,27 @@ Around 10 Hours.
 
 ![shopify](./screenshots/Screenshot1.png)
 
-![shopify](./screenshots/Screenshot2.png)
+![shopify](./screenshots/screenshot2.png)
 
-![shopify](./screenshots/Screenshot3.png)
+![shopify](./screenshots/screenshot3.png)
 
-![shopify](./screenshots/Screenshot4.png)
+![shopify](./screenshots/screenshot4.png)
 
-![shopify](./screenshots/Screenshot5.png)
+![shopify](./screenshots/screenshot5.png)
 
-![shopify](./screenshots/Screenshot6.png)
+![shopify](./screenshots/screenshot6.png)
 
-![shopify](./screenshots/Screenshot7.png)
+![shopify](./screenshots/screenshot7.png)
 
-![shopify](./screenshots/Screenshot8.png)
+![shopify](./screenshots/screenshot8.png)
 
-![shopify](./screenshots/Screenshot9.png)
+![shopify](./screenshots/screenshot9.png)
 
-![shopify](./screenshots/Screenshot10.png)
+![shopify](./screenshots/screenshot10.png)
 
-![shopify](./screenshots/Screenshot11.png)
+![shopify](./screenshots/screenshot11.png)
 
-![shopify](./screenshots/Screenshot12.png)
+![shopify](./screenshots/screenshot12.png)
 
 ![shopify](./screenshots/mob1.png)
 
